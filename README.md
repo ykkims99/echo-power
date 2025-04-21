@@ -21,9 +21,9 @@ echo-power/
 │   ├── config.yaml             # Threshold configuration
 │   └── example_run.py          # End-to-end inference demo
 ├── hardware/
-│   ├── echo_power_schematic.pdf    # Full schematic
-│   ├── echo_power_pcb_layout.png   # PCB layout
-│   └── bom_list.xlsx               # Bill of materials
+│   ├── Echo-Power_Hardware_Design_Guide.docx     # Full schematic
+│   ├── echo_power_hardware_schematic.png         # PCB layout
+│   └── Echo-Power_BOM_List.xlsx                  # Bill of materials
 ├── LICENSE
 └── README.md
 ```
